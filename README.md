@@ -140,9 +140,3 @@ Narrativa del viaje (paso a paso):
 - `geocodificar(lugar)`: consulta geocoding, devuelve `(lat, lng, etiqueta)` o `None`.
 - `ruta(origen, destino, vehiculo)`: consulta routing y devuelve el primer `path` o `None`.
 - `main()`: bucle interactivo, controla flujo y salida formateada.
-
----
-
-## Licencia
-
-Proyecto académico para fines educativos. Ajusta la licencia según los lineamientos de tu curso/institución.
