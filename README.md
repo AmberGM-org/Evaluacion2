@@ -1,4 +1,4 @@
-# Evaluación 2 — Indicaciones de viaje con GraphHopper (CLI)
+# Evaluación 2 — Indicaciones de viaje con GraphHopper - Ambar Gonzalez Millahuala
 
 Este proyecto es un **script en Python** que consulta la API de **GraphHopper** para:
 - Geocodificar **origen** y **destino** (latitud/longitud y etiquetas legibles).
